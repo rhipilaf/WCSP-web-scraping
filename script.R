@@ -1,7 +1,7 @@
 #Le 10/04/2019
 # /!\ The script is not completely clean. It works but some lines are supplementary and should not be ran.
 # So, be careful of what you launch, to the risk of losing the previous work.
-# Do not forget to change the family you aim to extract (line 45, via changing the position of the family in the scroll down menu (here 149))
+# Do not forget to change the family you aim to extract (line 45, via changing the position of the family in the scroll down menu (here 149 for Orchidaceae))
 # An update is planned for september as the later.
 
 if(!require(RSelenium)) {install.packages("RSelenium") ; library(RSelenium)}
